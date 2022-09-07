@@ -1,15 +1,24 @@
----
-layout: page
-title: About
-permalink: /about/
----
+[//]: # (---)
 
-Some information about you!
+[//]: # (layout: page)
 
-### More Information
+[//]: # (title: About)
 
-A place to include any other types of information that you'd like to include about yourself.
+[//]: # (permalink: /about/)
 
-### Contact me
+[//]: # (---)
 
-[email@domain.com](mailto:email@domain.com)
+[//]: # ()
+[//]: # (Some information about you!)
+
+[//]: # ()
+[//]: # (### More Information)
+
+[//]: # ()
+[//]: # (A place to include any other types of information that you'd like to include about yourself.)
+
+[//]: # ()
+[//]: # (### Contact me)
+
+[//]: # ()
+[//]: # ([email@domain.com]&#40;mailto:email@domain.com&#41;)
